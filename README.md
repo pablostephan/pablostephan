@@ -1,6 +1,6 @@
 - 👋 Hey there, I’m @pablostephan  
 - 👀 Passionate about the world of data science and all things analytical  
-- 🌱 Currently diving deep into SQL, Power BI, Python, R, and Pandas to build my toolkit  
+- 🌱 Currently diving deep into Excel, SQL, Power BI and Python to build my toolkit  
 - 💞️ Looking to team up on high-impact, strategic projects that bring meaningful change and results  
 - 📫 Feel free to reach out at: pablostefanes@outlook.com
 - 😄 Pronouns: He/His  
